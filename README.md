@@ -1,6 +1,6 @@
-# Core Java
+# Java Programming Language
 
-## Java Basics
+## Core Java
 - [ ] **Java Syntax and Basics**
     - [ ] Variables, Data Types, and Operators
     - [ ] Control Statements (if-else, loops)
