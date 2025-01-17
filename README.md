@@ -2,8 +2,8 @@
 
 ## Core Java
 - [ ] **Java Syntax and Basics**
-    - [ ] Variables, Data Types, and Operators
-    - [ ] Control Statements (if-else, loops)
+    - [x] Variables, Data Types, and Operators
+    - [x] Control Statements (if-else, loops)
     - [ ] Methods and Overloading
 - [ ] **Object-Oriented Programming (OOP)**
     - [ ] Classes and Objects
