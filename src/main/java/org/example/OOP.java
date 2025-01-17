@@ -75,7 +75,10 @@ public class OOP {
         bank.openLocker(); // Locker Class
         bank.closeLocker();
 
-        // 3: Polymorphism:
+        // 3: Polymorphism: Method, Class or interface behave differently based on Context
+        // 3A : Compile Time Polymorphism - Method Overloading
+        // 3B : Runtime Polymorphism - Method Overriding.
+
 
         // 4. Abstraction : Hiding the implementation details and showing only essential functionality.
         Vault vault = new Vault();
