@@ -4,7 +4,7 @@
 - [ ] **Java Syntax and Basics**
     - [x] Variables, Data Types, and Operators
     - [x] Control Statements (if-else, loops)
-    - [ ] Methods and Overloading
+    - [x] Methods and Overloading
 - [ ] **Object-Oriented Programming (OOP)**
     - [ ] Classes and Objects
     - [ ] Inheritance and Polymorphism
