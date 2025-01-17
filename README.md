@@ -5,10 +5,10 @@
     - [x] Variables, Data Types, and Operators
     - [x] Control Statements (if-else, loops)
     - [x] Methods and Overloading
-- [ ] **Object-Oriented Programming (OOP)**
-    - [ ] Classes and Objects
-    - [ ] Inheritance and Polymorphism
-    - [ ] Encapsulation and Abstraction
+- [ ] **Object-Oriented Programming (org.example.OOP)**
+    - [x] Classes and Objects
+    - [x] Inheritance and Polymorphism
+    - [x] Encapsulation and Abstraction
 - [ ] **Java Streams and Functional Programming**
     - [ ] Stream API for Collections
     - [ ] Lambda Expressions
